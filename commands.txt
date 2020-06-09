@@ -1,0 +1,10 @@
+wordCount
+distWords
+charCount
+frequentWord
+countWord 
+starting s
+containing is
+search am
+search
+read
